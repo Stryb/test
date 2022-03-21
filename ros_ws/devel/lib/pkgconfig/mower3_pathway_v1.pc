@@ -1,0 +1,8 @@
+prefix=/home/robo/ros_ws/devel
+
+Name: mower3_pathway_v1
+Description: Description of mower3_pathway_v1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

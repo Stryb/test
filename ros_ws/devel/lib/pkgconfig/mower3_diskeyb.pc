@@ -1,0 +1,8 @@
+prefix=/home/robo/ros_ws/devel
+
+Name: mower3_diskeyb
+Description: Description of mower3_diskeyb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
